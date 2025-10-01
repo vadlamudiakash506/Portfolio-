@@ -46,9 +46,13 @@ Visualized results using Excel Dashboards.
 
 The Indian Population Dashboard presents an analytical view of demographic patterns across India, transforming raw census data into actionable insights. Using SQL and Excel, the dashboard explores the country’s 1.21 billion population, highlighting growth trends over time and breaking down the data by states, regions, and age groups. It provides a clear picture of population distribution, density, and variations across categories such as rural vs. urban populations. Visualizations make it easier to identify highly populated states, emerging growth areas, and demographic shifts that influence planning and decision-making. By combining database querying with visualization tools, the dashboard enables policymakers, researchers, and analysts to better understand India’s population dynamics and use data effectively for strategy and development.
 
+![blink](https://github.com/user-attachments/assets/687e4ff5-47d7-4c22-a1ac-e6a4ab19583c)
 
+![crocodile](https://github.com/user-attachments/assets/c68e238b-bb0b-4616-ba01-ca563f573a57)
 
+![covid](https://github.com/user-attachments/assets/eae4d925-cf81-4680-b704-6f1ec9564f7b)
 
+![ADULT DATA DASHBOARD](https://github.com/user-attachments/assets/5a441586-9b20-4c01-954b-5b324fec07cd)
 
 
 
