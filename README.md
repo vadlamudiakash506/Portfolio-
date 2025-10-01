@@ -18,14 +18,19 @@ Visualization: Power BI, Excel, Matplotlib
 
 Other Skills: Data Cleaning, Data Modeling, Business Insights
 
-📊 Projects
-1️⃣ Sales & Profit Dashboard
+Projects
 
-📌 Tools: Excel / Power BI
+Sales & Profit Dashboard
 
-Created an interactive dashboard to analyze sales performance.
+Tools: Excel / Power BI
 
-Features: Total Sales & Profit, Yearly Profit Trends, Category Analysis, Top 5 Customers, Regional Sales
+Interactive dashboard analyzing sales & profit performance.
+
+Features: Total Sales & Profit, Yearly Trends, Category Breakdown, Top 5 Customers, Regional Sales.
+
+![sales and profit](https://github.com/user-attachments/assets/e1cdf664-31b5-456b-8a03-b10bce39d8ed)
+
+The Sales & Profit Dashboard provides a comprehensive view of business performance by analyzing sales, profit, and customer trends. Built using Excel and Power BI, the dashboard highlights key metrics such as total sales of $1.92M and profit of $247K, along with year-wise profit distribution across categories like Furniture, Office Supplies, and Technology. It showcases sales by category, identifies the top five customers contributing significantly to revenue, and tracks customer growth over time. A geographic sales map reveals state-wise distribution, with California emerging as a leading contributor, while the monthly trend chart highlights seasonal sales peaks, especially in Q4. By consolidating these insights into an interactive and user-friendly format, the dashboard enables stakeholders to monitor performance, identify growth opportunities, and make data-driven business decisions effectively.
 
 
 
