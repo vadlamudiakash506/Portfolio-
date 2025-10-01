@@ -32,6 +32,20 @@ Features: Total Sales & Profit, Yearly Trends, Category Breakdown, Top 5 Custome
 
 The Sales & Profit Dashboard provides a comprehensive view of business performance by analyzing sales, profit, and customer trends. Built using Excel and Power BI, the dashboard highlights key metrics such as total sales of $1.92M and profit of $247K, along with year-wise profit distribution across categories like Furniture, Office Supplies, and Technology. It showcases sales by category, identifies the top five customers contributing significantly to revenue, and tracks customer growth over time. A geographic sales map reveals state-wise distribution, with California emerging as a leading contributor, while the monthly trend chart highlights seasonal sales peaks, especially in Q4. By consolidating these insights into an interactive and user-friendly format, the dashboard enables stakeholders to monitor performance, identify growth opportunities, and make data-driven business decisions effectively.
 
+Indian Population Data Analysis (SQL + Excel)
+
+Tools: SQL, Excel
+
+Analyzed India’s 1.2B population dataset.
+
+Wrote SQL queries to find state-wise insights, growth patterns, and demographics.
+
+Visualized results using Excel Dashboards.
+
+![ind](https://github.com/user-attachments/assets/0e1242e7-aa78-4659-aee7-e9c020535585)
+
+The Indian Population Dashboard presents an analytical view of demographic patterns across India, transforming raw census data into actionable insights. Using SQL and Excel, the dashboard explores the country’s 1.21 billion population, highlighting growth trends over time and breaking down the data by states, regions, and age groups. It provides a clear picture of population distribution, density, and variations across categories such as rural vs. urban populations. Visualizations make it easier to identify highly populated states, emerging growth areas, and demographic shifts that influence planning and decision-making. By combining database querying with visualization tools, the dashboard enables policymakers, researchers, and analysts to better understand India’s population dynamics and use data effectively for strategy and development.
+
 
 
 
