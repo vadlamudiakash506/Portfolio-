@@ -1,66 +1,50 @@
-![sales and profit](https://github.com/user-attachments/assets/9a241447-3896-4ac6-a04e-6c2e9c3b50a5)
-📊 Sales & Profit Dashboard
+👋 Hi, I'm Vadlamudi Renu Sai Akash
 
-An interactive Sales & Profit Dashboard built using Excel/Power BI to analyze business performance, track profit trends, and identify key growth opportunities.
+💡 Aspiring Data Analyst | SQL | Excel | Power BI | Python | Data Visualization
 
-🚀 Features
+About Me
 
-Total Sales & Profit Overview
+I am passionate about transforming raw data into meaningful insights. Skilled in Excel, SQL, and Power BI, I have worked on projects involving dashboards, data cleaning, and statistical analysis. Currently, I’m expanding my expertise in Python (Pandas, Numpy, Matplotlib) and advanced data analytics techniques.
 
-Total Sales: $1.92M
+🛠️ Skills & Tools
 
-Total Profit: $247K
+Languages & Querying: SQL (Joins, Subqueries, Aggregations)
 
-Profit by Year (2021–2024)
+Data Analysis: Excel (Pivot Tables, Dashboards), Power BI (DAX, KPIs, Reports)
 
-Year-wise breakdown across Furniture, Office Supplies, and Technology.
+Programming: Python (Pandas, Numpy, Matplotlib – learning)
 
-Sales by Category
+Visualization: Power BI, Excel, Matplotlib
 
-Top-performing categories: Phones, Chairs, Storage, etc.
+Other Skills: Data Cleaning, Data Modeling, Business Insights
 
-Top 5 Customers
+📊 Projects
+1️⃣ Sales & Profit Dashboard
 
-Identifies high-value customers contributing to revenue.
+📌 Tools: Excel / Power BI
 
-Customer Count by Year
+Created an interactive dashboard to analyze sales performance.
 
-Tracks customer growth trends across four years.
+Features: Total Sales & Profit, Yearly Profit Trends, Category Analysis, Top 5 Customers, Regional Sales
 
-Sales by State (US Map)
 
-Regional analysis of sales distribution across different states.
 
-Sales by Month
 
-Monthly performance trend visualization.
 
-🛠️ Tools & Technologies
 
-Excel (Pivot Tables, Charts, Conditional Formatting, Dashboards)
 
-Power BI (Data Cleaning, Data Modeling, DAX, Visualizations)
 
-📈 Insights
 
-Phones and Chairs are the top revenue-generating categories.
 
-Steady customer growth observed from 2021 to 2024.
 
-California is the leading state in terms of sales contribution.
 
-Seasonal sales peaks identified in Q4 months.
 
-🔗 Use Case
 
-This dashboard helps businesses:
 
-Track sales performance in real-time.
 
-Identify profitable categories & customers.
 
-Monitor regional sales distribution.
 
-Support data-driven decision-making.
+
+
 
 
