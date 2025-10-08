@@ -70,6 +70,16 @@ Adult Data Analysis
 
 I recently completed an Adult Data Dashboard project in Excel, designed to provide an interactive, data-driven overview of adult demographics, occupations, and income distribution. The analysis covers 32,561+ records and reveals key insights such as gender distribution (21,790 males and 10,771 females), the relationship between marital status and hours worked, and how higher education levels correlate with higher incomes exceeding $50K. The dashboard also highlights occupation trends, showing that executive managers and professionals dominate the higher income bracket, and uncovers patterns in age across education levels. By examining how categorical variables like marital status, occupation, education, and gender influence income and work behavior, this project demonstrates the power of Excel in transforming raw data into clear, actionable insights through effective visualization and storytelling.
 
+![HEALTH1](https://github.com/user-attachments/assets/ceebaa77-6825-4b15-8dbb-3d457862a4ce)
+
+![health3](https://github.com/user-attachments/assets/d9695d1c-556b-47c3-8456-a1cd03541181)
+
+![health excel](https://github.com/user-attachments/assets/ce8e27af-4c17-4b2e-8082-78432e1adde1)
+
+![finance and lon](https://github.com/user-attachments/assets/41d668d2-7df8-49d7-91bb-1c389f398b4a)
+
+![FINANCE POWERBI](https://github.com/user-attachments/assets/c49a7526-a773-4408-a37a-61fa9e2aa20f)
+
 
 
 
